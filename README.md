@@ -18,4 +18,6 @@ Data used "No-show appointments"
 
 Kaggle [link](https://www.kaggle.com/ahmedmohameddawoud/no-show-appointments)
 
+![image](https://user-images.githubusercontent.com/72288293/152899604-db3d47d7-cd32-415d-8235-a57b17ec4af5.png)
+
 
